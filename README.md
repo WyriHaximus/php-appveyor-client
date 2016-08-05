@@ -1,3 +1,5 @@
+# Moved to: https://github.com/php-api-clients/appveyor
+
 # AppVeyor API Client for PHP 7
 
 [![Linux Build Status](https://travis-ci.org/WyriHaximus/php-appveyor-client.svg?branch=master)](https://appveyor-ci.org/WyriHaximus/php-appveyor-client)
